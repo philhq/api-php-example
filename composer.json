@@ -4,6 +4,9 @@
     "type": "library",
     "authors": [
         {
+            "name": "Fred Dysart"
+        },
+        {
             "name": "Phil Michaud",
             "email": "phil@uberfive.com"
         }
