@@ -1,6 +1,8 @@
 <?php
 namespace NationalNet;
 
+use RuntimeException;
+
 class API
 {
   private $timestamp = null;
